@@ -5,7 +5,7 @@ class Footer extends HTMLElement {
                 <div class="footer-section">
                     <strong>Contact:</strong><br/>
                     <a href="mailto:soporte.cpp.ac.cr?subject=Request for information"> Email: soporte.cpp.ac.cr</a><br />
-                    <a href="web:www.utn.ac.cr?subject=Request for information"> Official Website: www.utn.ac.cr</a><br />
+                    <a href="web:www.utn.ac.cr?subject=Request for information"> Official Website: www.colegiopotaxie.cr</a><br />
                     Phone: 2435-5000 <br />
                     <a href="about.html">About Us</a>
                 </div>
