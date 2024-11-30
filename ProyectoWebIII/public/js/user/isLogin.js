@@ -28,7 +28,7 @@ function salir() {
     auth.signOut().then(() => {
         // Redirect to index page after successful sign-out
         alert('Log out success');
-        document.location.href = 'index.html';
+        document.location.href = 'login.html';
     }).catch((error) => {
         // Display an alert if there is an error during sign-out
         alert('Error logging out: ' + error.message);
